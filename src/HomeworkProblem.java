@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class HomeworkProblem {
+public class Hypothesis {
         public static boolean test(String s1, String s2, int n1, int n2) {
             return s1.compareTo(s2) == (n1-n2);
         }
